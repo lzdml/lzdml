@@ -12,7 +12,7 @@
   -  [blog地址](https://du_zhao_lin.gitee.io/vitepress-template/)
   -  email: dzlkuboy@163.com
  
-![vue](https://github.com/github/explore/blob/main/topics/vue/vue.png){width=40 height=40} . ![react](https://github.com/github/explore/blob/main/topics/react/react.png){width=40, height=40}
+<img style="width:40px;height:40px;" src="https://github.com/github/explore/blob/main/topics/vue/vue.png" />
 
 <!---
 lzdml/lzdml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
