@@ -11,7 +11,7 @@
   - [blog 地址](https://du_zhao_lin.gitee.io/vitepress-template/)
   - email: dzlkuboy@163.com
 
-<div style="display: flex; row-gap: 8px;">
+<div style="display: grid; grid-column-gap: 10px;">
   <img style="width: 40px;height:40px;" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />
   <img style="width: 40px;height:40px;" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
   <img style="width: 40px;height:40px;" src="https://github.com/github/explore/blob/main/topics/vue/vue.png" />
