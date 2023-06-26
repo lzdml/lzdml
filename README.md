@@ -1,4 +1,4 @@
-<div style="padding: 0 12px;">
+<div style="padding: 0 12px;text-align:center;">
   <img style="width: 60%; height: auto; image-rendering: pixelated;" src="https://github.com/lzdml/lzdml/blob/main/images/home.jpg" />
 </div>
 
