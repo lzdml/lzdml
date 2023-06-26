@@ -1,3 +1,7 @@
+<div style="padding: 0 12px;">
+  <img style="width: 100%; height: auto; image-rendering: pixelated;" src="https://github.com/lzdml/lzdml/images/home.jpg" />
+</div>
+
 - 👋 你好，我是 @lzdml。
 - 👀 我对前端开发很感兴趣，喜欢创造出引人入胜的用户体验。
 - 🌱 目前正在学习最新的前端框架和库，以提升自己的技能。
