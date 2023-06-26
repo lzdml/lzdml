@@ -1,5 +1,5 @@
 <div style="padding: 0 12px;">
-  <img style="width: 100%; height: auto; image-rendering: pixelated;" src="https://github.com/lzdml/lzdml/blob/main/images/home.jpg" />
+  <img style="width: 60%; height: auto; image-rendering: pixelated;" src="https://github.com/lzdml/lzdml/blob/main/images/home.jpg" />
 </div>
 
 - 👋 你好，我是 @lzdml。
