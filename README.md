@@ -9,7 +9,7 @@
 
 - 联系方式
   - wechat: llmmlzd
-  -   blog: ![blog地址](https://du_zhao_lin.gitee.io/vitepress-template/)
+  -  [blog地址](https://du_zhao_lin.gitee.io/vitepress-template/)
   -  email: dzlkuboy@163.com
 
 <!---
