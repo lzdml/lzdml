@@ -11,6 +11,7 @@
   - [blog 地址](https://du_zhao_lin.gitee.io/vitepress-template/)
   - email: dzlkuboy@163.com
 
+- 个人技能:  
 <div style="display: grid; ">
   <img style="width: 40px;height:40px;margin-right: 10px;" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />
   <img style="width: 40px;height:40px;margin-right: 10px;" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
